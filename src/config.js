@@ -7,7 +7,7 @@ export const config = {
   },
   skills: [
     {
-      name: "Performance & Talent Management ",
+      name: "Talent Development",
     },
     {
       name: "Production Management",
@@ -18,7 +18,7 @@ export const config = {
   ],
   projects: [
     {
-      name: "People Ops & Culture",
+      name: "Talent Development & People Ops",
       description:
         "Implementing performance measurement models and processes to insure career development and growth of the teams",
       image: "projects/People-Operations.jpg",
@@ -27,7 +27,7 @@ export const config = {
       name: "Project & Team Management",
       description:
         "Insuring on-time and up to highest quality delivery of projects and team performance",
-      image: "projects/vfxProject1.jpg",
+      image: "projects/vfxProject3.jpg",
     },
     {
       name: "React Three Fiber",
